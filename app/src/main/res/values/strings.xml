@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+
+    <string name="hello_world">Address title</string>
+    <string name="action_settings">This Stuff here</string>
+    <string name="no_contact">No Contacts</string>
+    <string name="menuItem_add">Add</string>
+    <string name="menuItem_edit">Edit</string>
+    <string name="menuItem_delete">Delete</string>
+    <string name="button_save_contact">Save Contact</string>
+    <string name="hint_name">Name: ( Required )</string>
+    <string name="hint_email">E-Mail</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_street">Street</string>
+    <string name="hint_city">City</string>
+    <string name="hint_state">State</string>
+    <string name="hint_zip">Zip</string>
+    <string name="label_name">Name:</string>
+    <string name="label_email">E-Mail:</string>
+    <string name="label_phone">Phone:</string>
+    <string name="label_street">Street:</string>
+    <string name="label_city">City:</string>
+    <string name="label_state">State:</string>
+    <string name="label_zip">Zip:</string>
+    <string name="confirm_title">are you Sure?</string>
+    <string name="confirm_message">This will permanently delete the contact</string>
+    <string name="ok">OK</string>
+    <string name="error_message">you must enter a contact name</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+
+
+</resources>
+
